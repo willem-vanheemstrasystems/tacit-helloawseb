@@ -16,6 +16,7 @@
   "devDependencies": {
   },
   "scripts": {
+    "start": "node servers/server",
     "test": "make test"
   },
   "repository": {
